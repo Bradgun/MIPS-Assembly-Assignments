@@ -133,7 +133,7 @@ equal_input:
 	
 	
 exit:
-		#Exit the program
+	#Exit the program
 	 li $v0, 10
 	 syscall 
 	 
