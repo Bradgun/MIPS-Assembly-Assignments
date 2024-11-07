@@ -2,7 +2,7 @@
 #11/6/2024
 #Github link: https://github.com/Bradgun/MIPS-Assembly-Assignments
 #Task 1: User input and output
-	#get two int valeus from the user
+	#get two int values from the user
 	#two user values should be held in $s0 and $s1
 	#output the use inputs in "Run I/O section back to the user
 	
