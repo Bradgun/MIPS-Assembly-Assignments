@@ -1,5 +1,6 @@
 #Name: Bradley Gunawan
 #11/6/2024
+#Github link: https://github.com/Bradgun/MIPS-Assembly-Assignments
 #Task 1: User input and output
 	#get two int valeus from the user
 	#two user values should be held in $s0 and $s1
