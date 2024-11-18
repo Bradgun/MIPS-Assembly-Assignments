@@ -129,6 +129,7 @@ postScore:
     b invalid
 
 invalid:
+#sends users back to the main menu for invalid inputs
 prString invalidInput
 b main
 
