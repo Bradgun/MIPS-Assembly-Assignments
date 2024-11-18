@@ -67,7 +67,6 @@ grades:
     li $t0, 0
     li $t1, 100
     blt $s1, $t0, invalid
-    bgt $s1, $t1, invalid
 
     #determine what letter will suit the input
 
